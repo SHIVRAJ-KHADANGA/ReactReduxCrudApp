@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "test",
+      "description": "test",
+      "id": 1
+    },
+    {
+      "title": "test2",
+      "description": "new stream test 2",
+      "id": 2
+    },
+    {
+      "title": "Stream with ID",
+      "description": "This has got my User Id",
+      "id": 3
+    },
+    {
+      "title": "Reuse test",
+      "description": "Reuse test 2",
+      "id": 6
+    }
+  ]
+}
